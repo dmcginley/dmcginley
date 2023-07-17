@@ -1,12 +1,8 @@
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="images/profile.png" width="180"/>
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mcginley.donn@gmail.com?cc=name@domain.com)
-
-</div>
+</div> -->
 
 <div id="header" align="center" style="margin-top: 20px;">
 
