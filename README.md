@@ -1,7 +1,7 @@
 
  <div id="header" align="center">
 
-## Hi I'm Donnchadh
+### Hi I'm Donnchadh
 </div>
 
 
@@ -11,8 +11,9 @@
 </div>
 
 
-<div id="header" align="start" style="font-size:1.2em; margin-top: 20px;">
-I'm a Full-stack Developer specialising in Django, Python, and WordPress.
+<div id="header" align="start" style="margin-top: 20px;">
+
+**I'm a Full-stack Developer specialising in Django, Python, and WordPress.**
 </div>
 
 
@@ -49,13 +50,13 @@ I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 
 
 
-<div style="font-size:.8rem; margin-left:14px;">
-<p style="font-size:.8rem; font-weight:bold; margin-bottom:4px; color:#757e88;">Created using</p>
-<a style="font-size:.8rem;" href="https://github.com/Ileriayo/markdown-badges" rel="noopener noreferrer" target="_blank">Markdown Badges</a>
 
-<a style="font-size:.8rem;" href="https://github.com/anuraghazra/github-readme-stats/tree/master" rel="noopener noreferrer" target="_blank">github-readme-stats</a>
+<p style="margin-bottom:4px;">Created using</p>
+<a href="https://github.com/Ileriayo/markdown-badges" rel="noopener noreferrer" target="_blank">Markdown Badges</a>
 
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats/tree/master" rel="noopener noreferrer" target="_blank">github-readme-stats</a>
+
+
 
 </div>
 
