@@ -10,11 +10,10 @@
 
 <div id="header" align="center" style="margin-top: 20px;">
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcginley.donn@gmail.com?subject=Fullstack%20develiper%20query) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnchadh-mc-ginley/) [![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=gray)](https://myapp-dmcginley.vercel.app/)
+[![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=gray)](https://myapp-dmcginley.vercel.app/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnchadh-mc-ginley/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcginley.donn@gmail.com?subject=Fullstack%20develiper%20query)
 <div id="header" align="start" style="margin-top: 20px;">
 I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 </div>
-
 </div>
 
 
