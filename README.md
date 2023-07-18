@@ -1,21 +1,19 @@
 
-
-<!-- <div id="header" align="center">
-  <img src="images/profile.png" width="180"/>
-</div> -->
  <div id="header" align="center">
 
 ### Hi I'm Donnchadh
 </div>
 
+
 <div id="header" align="center" style="margin-top: 20px;">
 
 [![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=gray)](https://myapp-dmcginley.vercel.app/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnchadh-mc-ginley/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcginley.donn@gmail.com?subject=Fullstack%20develiper%20query)
+</div>
+
+
 <div id="header" align="start" style="margin-top: 20px;">
 I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 </div>
-</div>
-
 
 
 <div id="header" align="center" style="margin-top: 40px; max-width: ">
@@ -43,10 +41,20 @@ I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+<div style="margin-top:60px"></div>
+
+![Anurag's GitHub statsbuefy](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&show=reviews&custom_title=My+Stats&hide=contribs&theme=buefy)
+
+
+
+<div style="font-size:.8rem; margin-left:14px;">
+<p style="font-size:.8rem; font-weight:bold; margin-bottom:4px; color:#757e88;">Created using</p>
+<a style="font-size:.8rem;" href="https://github.com/Ileriayo/markdown-badges" rel="noopener noreferrer" target="_blank">Markdown Badges</a>
+
+<a style="font-size:.8rem;" href="https://github.com/anuraghazra/github-readme-stats/tree/master" rel="noopener noreferrer" target="_blank">github-readme-stats</a>
+
 </div>
-
-
-
-
-
+</div>
+</div>
 
