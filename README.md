@@ -1,7 +1,7 @@
 
  <div id="header" align="center">
 
-### Hi I'm Donnchadh
+## Hi I'm Donnchadh
 </div>
 
 
@@ -11,7 +11,7 @@
 </div>
 
 
-<div id="header" align="start" style="margin-top: 20px;">
+<div id="header" align="start" style="font-size:1.2em; margin-top: 20px;">
 I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 </div>
 
@@ -42,7 +42,7 @@ I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<div style="margin-top:60px"></div>
+<div style="padding:1.4em"></div>
 
 ![Anurag's GitHub statsbuefy](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&show=reviews&custom_title=My+Stats&hide=contribs&theme=buefy)
 
