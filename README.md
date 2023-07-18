@@ -42,7 +42,8 @@ I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<div style="padding:1.4em"></div>
+
+&nbsp;
 
 ![Anurag's GitHub statsbuefy](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&show=reviews&custom_title=My+Stats&hide=contribs&theme=buefy)
 
@@ -55,6 +56,7 @@ I'm a Full-stack Developer specialising in Django, Python, and WordPress.
 <a style="font-size:.8rem;" href="https://github.com/anuraghazra/github-readme-stats/tree/master" rel="noopener noreferrer" target="_blank">github-readme-stats</a>
 
 </div>
+
 </div>
-</div>
+
 
